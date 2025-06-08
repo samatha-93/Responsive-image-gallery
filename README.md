@@ -1,7 +1,6 @@
 # Day 3 - Responsive Image Gallery
 
-This is a responsive image gallery using **CSS Grid**, built as part of my 30-Day Frontend Developer Challenge.
-
+This is a responsive image gallery using **CSS Grid**, built as part of my practice.
 ## 🔥 What I Learned
 
 - CSS Grid for responsive layout
